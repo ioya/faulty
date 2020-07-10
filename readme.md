@@ -7,13 +7,14 @@
 		</p>
     	<p>
 			<sup>
-                ❤️ It should be a peace space for who say his unpleasant. ❤️
+                ❤️ It should be a peace space for who say his unpleasant ❤️
 			</sup>
 		</p>
+    	<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ioya/faulty?label=discussion">
+    	<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ioya/faulty?label=solution">
 		<br>
 	</p>
 </div>
-
 
 ## How to
 

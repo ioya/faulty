@@ -3,13 +3,15 @@
 	<br>
 	<p>
 		<p>
-			Faulty
+			不完美
 		</p>
     	<p>
 			<sup>
-                ❤️ It should be a peace space for who say his unpleasant. ❤️
+                ❤️ 初衷是大家可以和平地讨论对生活中的不满意 ❤️
 			</sup>
 		</p>
+    	<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ioya/faulty?label=%E8%AE%A8%E8%AE%BA">
+    	<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ioya/faulty?label=%E6%96%B9%E6%A1%88">
 		<br>
 	</p>
 </div>
